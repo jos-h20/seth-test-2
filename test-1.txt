@@ -1,2 +1,3 @@
 josh is writing something on test 1.
 seth is now writing something on test 2.
+seth is writing something else from vs code.
